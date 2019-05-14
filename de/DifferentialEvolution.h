@@ -15,6 +15,7 @@
 #include <utility>
 #include <memory>
 #include <limits>
+#include <functional>
 
 namespace de
 {
